@@ -20,7 +20,7 @@ spec:
           env:
             - name: ENV
               value: prod
-          image: fdc123/imagename
+          image: fdc123/gocode
           resources:
             limits:
               memory: "128Mi"
